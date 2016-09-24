@@ -9,6 +9,9 @@ Control a connected bubble machine with a particle and node.
 * [Mini bubble machine](http://cpc.farnell.com/qtx-sound/160-562uk/bubble-machine-mini-battery/dp/DP33783).
 
 ## Use it
+
+Set your Photon `name` and `access token` in the code.
+
 ```shell
 node app.js --bubble on
 node app.js --bubble off
