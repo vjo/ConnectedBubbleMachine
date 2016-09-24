@@ -1,0 +1,12 @@
+{
+  "name": "ConnectedBubbleMachine",
+  "version": "0.0.1",
+  "description": "Control a connected bubble machine",
+  "author": "vjo",
+  "license": "MIT",
+  "main": "app.js",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "request": "^2.75.0"
+  }
+}
