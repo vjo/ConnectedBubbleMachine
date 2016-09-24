@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 
-const fs = require('fs'),
-  program = require('commander'),
+const program = require('commander'),
   request = require('request');
 
 const PARTICLE_CONFIG = {
